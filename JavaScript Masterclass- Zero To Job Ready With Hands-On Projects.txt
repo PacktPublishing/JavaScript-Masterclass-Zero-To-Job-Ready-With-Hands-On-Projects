@@ -1,0 +1,21 @@
+JavaScript Masterclass: Zero To Job Ready With Hands-On Projects - Resources
+
+Resources [Important]
+Complete Resources - https://unwiredlearning.com/resource/javascript
+
+
+
+Lecture Code Source - https://github.com/ShubhamSarda/javascript-ul
+
+Click on Star - To bookmark it
+
+Click on Download Zip - To download complete source code on your system
+
+
+
+Project Code Source - https://github.com/ShubhamSarda/javascript-projects-ul
+
+Click on Star - To bookmark it
+
+Click on Download Zip - To download complete source code on your system
+
